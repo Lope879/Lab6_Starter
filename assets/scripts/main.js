@@ -97,8 +97,6 @@ function initFormHandler() {
 		localStorage.setItem('recipes', JSON.stringify(recipes)); //B9
 	})
 
-// localStorage.setItem('recipes', JSON.stringify(PASTE RECIPES ARRAY HERE));                               //DELETE
-
 	// B10. TODO - Get a reference to the "Clear Local Storage" button
 	// B11. TODO - Add a click event listener to clear local storage button
 	// Steps B12 & B13 will occur inside the event listener from step B11
